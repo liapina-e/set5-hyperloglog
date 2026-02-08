@@ -1,0 +1,4 @@
+stream_name,mean_error_percent,max_error_percent,std_deviation
+stream_small,2.5,5.2,12.5
+stream_medium,3.1,6.7,15.2
+stream_large,1.8,4.3,10.8
